@@ -29,7 +29,6 @@ A single-glance snapshot of business health for leadership and stakeholders.
 **Why it matters:** A 57.6% net margin combined with a €40+ average order value signals healthy unit economics — and the visible seasonal peaks give management a data-backed basis for staffing and inventory planning around high-demand periods.
 
 ### 2️Menu Performance — Product Mix Analysis
-![Menu Performance](page2_menu.png)
 
 Breaks revenue down by item and category to identify what's working — and what's being left on the table.
 
